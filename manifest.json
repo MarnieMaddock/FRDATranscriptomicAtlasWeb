@@ -3674,8 +3674,14 @@
     }
   },
   "files": {
+    ".Rbuildignore": {
+      "checksum": "17f847933966777e7397760158d3dc05"
+    },
     "app.R": {
       "checksum": "a57c09747e24bcd70a53d20341b42ab8"
+    },
+    "DESCRIPTION": {
+      "checksum": "902717166dc81e869fa2f0e694f35d61"
     }
   },
   "users": null
