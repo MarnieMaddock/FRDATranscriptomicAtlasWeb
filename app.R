@@ -1,3 +1,3 @@
 library(FRDATranscriptomicAtlas)
 
-FRDATranscriptomicAtlas::run_app()
+FRDATranscriptomicAtlas::run_app(data_mode = "cloud")
