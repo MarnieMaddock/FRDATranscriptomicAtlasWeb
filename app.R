@@ -1,0 +1,3 @@
+library(FRDATranscriptomicAtlas)
+
+FRDATranscriptomicAtlas::FRDATranscriptomicAtlas()
