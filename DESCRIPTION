@@ -1,0 +1,8 @@
+Package: FRDATranscriptomicAtlasWeb
+Title: FRDA Transcriptomic Atlas Web App
+Version: 1.0.0
+Imports:
+    shiny,
+    FRDATranscriptomicAtlas
+Remotes:
+    MarnieMaddock/FRDATranscriptomicAtlas
