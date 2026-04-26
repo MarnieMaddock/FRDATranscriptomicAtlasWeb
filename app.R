@@ -1,3 +1,3 @@
 library(FRDATranscriptomicAtlas)
 
-FRDATranscriptomicAtlas::FRDATranscriptomicAtlas()
+FRDATranscriptomicAtlas::run_app()
