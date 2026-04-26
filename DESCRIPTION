@@ -5,4 +5,4 @@ Imports:
     shiny,
     FRDATranscriptomicAtlas
 Remotes:
-    MarnieMaddock/FRDATranscriptomicAtlas
+    MarnieMaddock/FRDATranscriptomicAtlas@web
