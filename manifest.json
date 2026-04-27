@@ -66,16 +66,16 @@
         "RemoteRepo": "FRDATranscriptomicAtlas",
         "RemoteUsername": "MarnieMaddock",
         "RemoteRef": "web",
-        "RemoteSha": "e52d67274e5eeedb517767e00c2fa6605c712df0",
+        "RemoteSha": "8409762923b96ef01eba0511d313c6aada1b4b93",
         "GithubRepo": "FRDATranscriptomicAtlas",
         "GithubUsername": "MarnieMaddock",
         "GithubRef": "web",
-        "GithubSHA1": "e52d67274e5eeedb517767e00c2fa6605c712df0",
+        "GithubSHA1": "8409762923b96ef01eba0511d313c6aada1b4b93",
         "NeedsCompilation": "no",
-        "Packaged": "2026-04-27 03:00:22 UTC; marni",
+        "Packaged": "2026-04-27 03:06:22 UTC; marni",
         "Author": "Marnie Maddock [aut, cre]",
         "Maintainer": "Marnie Maddock <mlm715@uowmail.edu.au>",
-        "Built": "R 4.5.2; ; 2026-04-27 03:00:27 UTC; windows"
+        "Built": "R 4.5.2; ; 2026-04-27 03:06:26 UTC; windows"
       }
     },
     "GlobalOptions": {
