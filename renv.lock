@@ -395,8 +395,8 @@
       "RemoteHost": "api.github.com",
       "RemoteRepo": "FRDATranscriptomicAtlas",
       "RemoteUsername": "MarnieMaddock",
-      "RemoteRef": "web",
-      "RemoteSha": "88c78cf670d04f243b58dfbd0fdf10c06516d15c",
+      "RemoteRef": "HEAD",
+      "RemoteSha": "0fe7dbeecb999e9449e1d8b1ef69ffe0b1fef2a8",
       "NeedsCompilation": "no",
       "Author": "Marnie Maddock [aut, cre]",
       "Maintainer": "Marnie Maddock <mlm715@uowmail.edu.au>"
