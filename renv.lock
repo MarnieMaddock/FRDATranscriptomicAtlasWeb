@@ -249,7 +249,7 @@
     },
     "FRDATranscriptomicAtlas": {
       "Package": "FRDATranscriptomicAtlas",
-      "Version": "1.0.0",
+      "Version": "1.1.0",
       "Source": "GitHub",
       "Title": "FRDA Transcriptomic Atlas",
       "Authors@R": "c(person(\"Marnie\", \"Maddock\", role = c(\"aut\",\"cre\"), email = \"mlm715@uowmail.edu.au\"))",
@@ -304,7 +304,7 @@
       "RemoteRepo": "FRDATranscriptomicAtlas",
       "RemoteUsername": "MarnieMaddock",
       "RemoteRef": "web",
-      "RemoteSha": "315c441e017b20df2ade9ca72eb07eabaac01163",
+      "RemoteSha": "86423a2697634b0b03db88859333d04057719fac",
       "NeedsCompilation": "no",
       "Author": "Marnie Maddock [aut, cre]",
       "Maintainer": "Marnie Maddock <mlm715@uowmail.edu.au>"
