@@ -344,16 +344,16 @@
         "RemoteRepo": "FRDATranscriptomicAtlas",
         "RemoteUsername": "MarnieMaddock",
         "RemoteRef": "HEAD",
-        "RemoteSha": "6e8317a6a2c9911ee936738f1fafe6d3f920bcdf",
+        "RemoteSha": "bf59b9a472a198ffe90dd787533a1b70900621d9",
         "GithubRepo": "FRDATranscriptomicAtlas",
         "GithubUsername": "MarnieMaddock",
         "GithubRef": "HEAD",
-        "GithubSHA1": "6e8317a6a2c9911ee936738f1fafe6d3f920bcdf",
+        "GithubSHA1": "bf59b9a472a198ffe90dd787533a1b70900621d9",
         "NeedsCompilation": "no",
-        "Packaged": "2026-05-03 07:23:02 UTC; marni",
+        "Packaged": "2026-05-04 05:38:10 UTC; marni",
         "Author": "Marnie Maddock [aut, cre]",
         "Maintainer": "Marnie Maddock <mlm715@uowmail.edu.au>",
-        "Built": "R 4.5.2; ; 2026-05-03 07:23:05 UTC; windows"
+        "Built": "R 4.5.2; ; 2026-05-04 05:38:16 UTC; windows"
       }
     },
     "GenomicRanges": {
@@ -4332,7 +4332,7 @@
       "checksum": "7f3003188f3a78fd085feca239edcc60"
     },
     ".Rprofile": {
-      "checksum": "4ae619291bc01134827dcb733aa44f61"
+      "checksum": "50f9a4532c4b2ed49e16d1c45943d0d4"
     },
     "app.R": {
       "checksum": "5067b79c0d993268bf2cea5b1a8bfc50"
@@ -4341,7 +4341,7 @@
       "checksum": "79d6877cc5ac88308db3558f315062dd"
     },
     "renv.lock": {
-      "checksum": "3033d6e84fa4420f04c50b62b4a766d2"
+      "checksum": "eb492365e4407afe377f931e9be4e8b8"
     }
   },
   "users": null

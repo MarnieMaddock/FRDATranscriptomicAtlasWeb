@@ -539,7 +539,7 @@
       "RemoteRepo": "FRDATranscriptomicAtlas",
       "RemoteUsername": "MarnieMaddock",
       "RemoteRef": "HEAD",
-      "RemoteSha": "6e8317a6a2c9911ee936738f1fafe6d3f920bcdf",
+      "RemoteSha": "bf59b9a472a198ffe90dd787533a1b70900621d9",
       "NeedsCompilation": "no",
       "Author": "Marnie Maddock [aut, cre]",
       "Maintainer": "Marnie Maddock <mlm715@uowmail.edu.au>"
